@@ -1,4 +1,6 @@
-## Hey! I'm gabrielccbr, primarily a Roblox developer with a deep understanding of complex game systems architecture, looking foward to professional growth outside the platform.
+## Hey! I'm gabrielccbr, welcome to my github profile.
+
+**I am primarily a Roblox developer with a deep understanding of complex game systems architecture, looking foward to professional growth outside the platform.**
 
 **Professional expertise:**
 
