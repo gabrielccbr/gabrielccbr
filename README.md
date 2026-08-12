@@ -20,7 +20,7 @@
 
 **Game Mechanics:** Engineered intricate interaction systems for collectible items (S1-S6 secrets) with state management, retry/reset logic, and anti-exploit protection.
 
-**Problem Solving:** Successfully debugged complex issues including: DataStore double conversion errors, thread cancellation with task.cancel, UI parenting conflicts, leaderboard visibility integration, and medal display logic.
+**Problem Solving:** Successfully debugged complex issues including: DataStore double conversion errors, thread cancellation, UI parenting conflicts, leaderboard visibility integration, and medal display logic.
 
 **System Integration:** Seamlessly connected client-side UI with server-side data processing, remote event architectures, and real-time updates.
 
